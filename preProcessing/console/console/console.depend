@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1394731328 source:d:\university\2014(second-semester)-last\gp\code\preprocessing\console\console\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<direct.h>
+	<process.h>
+	"headers/IScanTailorPreProcessing.h"
+
+1394202937 d:\university\2014(second-semester)-last\gp\code\preprocessing\console\console\headers\iscantailorpreprocessing.h
+	<string>
+
+1394731328 source:d:\university\2014-second-semester-last\gp\code\preprocessing\console\console\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<direct.h>
+	<process.h>
+	"headers/IScanTailorPreProcessing.h"
+
+1394202937 d:\university\2014-second-semester-last\gp\code\preprocessing\console\console\headers\iscantailorpreprocessing.h
+	<string>
+

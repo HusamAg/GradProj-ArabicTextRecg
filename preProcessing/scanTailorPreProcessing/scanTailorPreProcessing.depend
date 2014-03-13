@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1394645840 source:d:\university\2014(second-semester)-last\gp\code\preprocessing\scantailorpreprocessing\scantailorpreprocessing.cpp
+	"scanTailorPreProcessing.h"
+	<process.h>
+	<Windows.h>
+	<iostream>
+
+1394645785 d:\university\2014(second-semester)-last\gp\code\preprocessing\scantailorpreprocessing\scantailorpreprocessing.h
+	<windows.h>
+	<process.h>
+	<string>
+	"IScanTailorPreProcessing.h"
+
+1394202937 d:\university\2014(second-semester)-last\gp\code\preprocessing\scantailorpreprocessing\iscantailorpreprocessing.h
+	<string>
+

@@ -1,0 +1,10 @@
+D:\university\2014-second-semester-Last\GP\code\preProcessing\console\console\bin\Debugtest----
+D:\university\2014-second-semester-Last\GP\code\preProcessing\console\console\bin\Debug\images\test.jpg
+D:\university\2014-second-semester-Last\GP\code\preProcessing\console\console\bin\Debug\images
+COMMAND---
+scantailor-cli "D:\university\2014-second-semester-Last\GP\code\preProcessing\console\console\bin\Debug\images\test.jpg" "D:\university\2014-second-semester-Last\GP\code\preProcessing\console\console\bin\Debug\images"
+
+image PATH ::D:\university\2014-second-semester-Last\GP\code\preProcessing\console\console\bin\Debug\images\test.jpg
+imageResult::  D:\university\2014-second-semester-Last\GP\code\preProcessing\console\console\bin\Debug\images\
+
+DONE!!
